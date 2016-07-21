@@ -1,0 +1,65 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Final - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\CHANGR~1\AppData\Local\Temp\RSP32E1.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Debug/" /Fp"Debug/DaysMatter.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\ChangRong\Desktop\Final\时光胶囊\CRMenu.cpp"
+"C:\Users\ChangRong\Desktop\Final\时光胶囊\CRNumber.cpp"
+"C:\Users\ChangRong\Desktop\Final\时光胶囊\CRNumberShow.cpp"
+"C:\Users\ChangRong\Desktop\Final\时光胶囊\CSAllsecond.cpp"
+"C:\Users\ChangRong\Desktop\Final\时光胶囊\CSGethours.cpp"
+"C:\Users\ChangRong\Desktop\Final\时光胶囊\CSGetminutes.cpp"
+"C:\Users\ChangRong\Desktop\Final\时光胶囊\CSGetseconds.cpp"
+"C:\Users\ChangRong\Desktop\Final\时光胶囊\CSRiqi.cpp"
+"C:\Users\ChangRong\Desktop\Final\时光胶囊\LBiJiao.cpp"
+"C:\Users\ChangRong\Desktop\Final\时光胶囊\LDay.cpp"
+"C:\Users\ChangRong\Desktop\Final\时光胶囊\LPaiXu.cpp"
+"C:\Users\ChangRong\Desktop\Final\时光胶囊\Main.cpp"
+]
+Creating command line "cl.exe @C:\Users\CHANGR~1\AppData\Local\Temp\RSP32E1.tmp" 
+Creating temporary file "C:\Users\CHANGR~1\AppData\Local\Temp\RSP32E2.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/DaysMatter.pdb" /debug /machine:I386 /out:"Debug/DaysMatter.exe" /pdbtype:sept 
+".\Debug\CRMenu.obj"
+".\Debug\CRNumber.obj"
+".\Debug\CRNumberShow.obj"
+".\Debug\CSAllsecond.obj"
+".\Debug\CSGethours.obj"
+".\Debug\CSGetminutes.obj"
+".\Debug\CSGetseconds.obj"
+".\Debug\CSRiqi.obj"
+".\Debug\LBiJiao.obj"
+".\Debug\LDay.obj"
+".\Debug\LPaiXu.obj"
+".\Debug\Main.obj"
+]
+Creating command line "link.exe @C:\Users\CHANGR~1\AppData\Local\Temp\RSP32E2.tmp"
+<h3>Output Window</h3>
+Compiling...
+CRMenu.cpp
+CRNumber.cpp
+CRNumberShow.cpp
+CSAllsecond.cpp
+CSGethours.cpp
+CSGetminutes.cpp
+CSGetseconds.cpp
+CSRiqi.cpp
+LBiJiao.cpp
+LDay.cpp
+LPaiXu.cpp
+Main.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+DaysMatter.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
